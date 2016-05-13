@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAIA,IAAI;EACH,UAAU,EALK,IAAI;EAMnB,SAAS,EALE,IAAI;;AAQhB,aAAa;EACZ,UAAU,EAVK,IAAI;EAWnB,mBAAO;IACN,UAAU,EAAE,kBAAqC;EAElD,mBAAO;IACN,KAAK,EAbQ,IAAI;IAcjB,MAAM,EAAE,IAAI",
+"sources": ["stylo.scss"],
+"names": [],
+"file": "style.css"
+}
